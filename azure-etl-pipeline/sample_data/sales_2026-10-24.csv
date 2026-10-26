@@ -1,0 +1,12 @@
+order_id,order_date,customer_email,product,quantity,unit_price,country
+A1001,2026-10-20,Asha.Rao@Example.com,wireless mouse,2,799.00,India
+A1002,2026-10-20,ben@example.com,mechanical keyboard,1,"3,499.00",USA
+A1003,21/10/2026,chen@example.com,usb-c hub,3,1899.00,Singapore
+A1004,2026-10-21,emma@example.com,desk lamp,1,1299.00,UK
+A1005,2026-10-22,not-an-email,notebook a5,5,120.00,India
+A1006,2026-10-22,farid@example.com,backpack,0,1799.00,UAE
+A1007,2026-13-45,grace@example.com,water bottle,2,450.00,USA
+A1008,2026-10-23,hiro@example.com,gel pen pack,10,90.00,Japan
+A1009,2026-10-23,isha@example.com,wireless mouse,1,799.00,IN
+A1001,2026-10-24,asha.rao@example.com,wireless mouse,2,799.00,India
+,2026-10-24,jack@example.com,desk lamp,1,1299.00,UK
